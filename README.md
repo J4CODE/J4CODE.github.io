@@ -1,2 +1,2 @@
 # J4CODE.github.io
-First Site - Project Test &amp; Launch
+Frontend Coding Website Project - Project Testing, Debugging and Launch.
