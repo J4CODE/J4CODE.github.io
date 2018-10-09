@@ -40,15 +40,6 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
     return false // explicit for ie8 (  ._.)
   }
   
-  
-  
-  $('.launch-modal').on('click', function(e){
-    e.preventDefault();
-    $( '#' + $(this).data('modal-id') ).modal();
-});
-  
-  
-
   // http://blog.alexmaccaw.com/css-transitions
   $.fn.emulateTransitionEnd = function (duration) {
     var called = false, $el = this
